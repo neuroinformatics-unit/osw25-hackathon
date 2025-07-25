@@ -1,5 +1,5 @@
-name: Hackathon project idea
-description: submit a hackathon project idea
+name: Hackday project idea
+description: submit a hackday project idea
 projects: neuroinformatics-unit/19
 body:
   - type: textarea
