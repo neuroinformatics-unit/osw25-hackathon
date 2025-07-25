@@ -1,12 +1,12 @@
 name: Hackathon project idea
 description: submit a hackathon project idea
-project: 
+project: OSW-25 hackathon project ideas 
 body:
   - type: markdown
     attributes:
       value: |
         # Idea description
-        Describe the high-level project idea. Include what the outcome of the hackday could be (a prototype? A polished write-up of an idea?). Make sure to link to relevant resources. 1-2 paragraphs suggested
+        Describe the high-level project idea. Include what the outcome of the hackday could be (a prototype? A polished write-up of an idea?). Make sure to link to relevant resources, and check that the idea doesn't exist yet. 1-2 paragraphs suggested
   - type: markdown
     attributes:
       value: |
