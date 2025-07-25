@@ -2,11 +2,12 @@ name: Hackathon project idea
 description: submit a hackathon project idea
 projects: neuroinformatics-unit/19
 body:
-  - type: markdown
+  - type: textarea
+    id: description
     attributes:
-      value: |
-        # Idea description
-        Describe the high-level project idea. Include what the outcome of the hackday could be (a prototype? A polished write-up of an idea?). Make sure to link to relevant resources, and check that the idea doesn't exist yet. You can see all proposed ideas on [this project board](https://github.com/orgs/neuroinformatics-unit/projects/19/views/1). 1-2 paragraphs suggested.
+      label: Idea description
+      description: Include what the outcome of the hackday could be (a prototype? A polished write-up of an idea?).
+      placeholder: Make sure to link to relevant resources, and check that the idea doesn't exist yet. You can see all proposed ideas on [this project board](https://github.com/orgs/neuroinformatics-unit/projects/19/views/1). 1-2 paragraphs suggested.         
   - type: markdown
     attributes:
       value: |
