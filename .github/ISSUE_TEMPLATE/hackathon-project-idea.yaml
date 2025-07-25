@@ -1,6 +1,6 @@
 name: Hackathon project idea
 description: submit a hackathon project idea
-project: OSW-25 hackathon project ideas 
+projects: neuroinformatics-unit/19
 body:
   - type: markdown
     attributes:
