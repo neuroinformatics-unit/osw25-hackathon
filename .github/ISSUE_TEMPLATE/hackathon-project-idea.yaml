@@ -1,0 +1,22 @@
+name: Hackathon project idea
+description: submit a hackathon project idea
+project: OSW-25 hackathon project ideas 
+body:
+  - type: markdown
+    attributes:
+      value: |
+        # Idea description
+Describe the high-level project idea. Include what the outcome of the hackday could be (a prototype? A polished write-up of an idea?). Make sure to link to relevant resources, and check that the idea doesn't exist yet. You can see all proposed ideas on [this project board](https://github.com/orgs/neuroinformatics-unit/projects/19/views/1). 1-2 paragraphs suggested.
+  - type: markdown
+    attributes:
+      value: |
+        # What skills are needed to tackle the project
+Explain what skills (like writing/design skills, knowledge about a topic or a technology) would help tackle your project.
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Would you be willing to lead this project?
+      description: Tick this box if you would be willing to take on this project - alternatively, you can also submit this idea just as is!
+      options:
+        - label: Yes!
+          required: true
