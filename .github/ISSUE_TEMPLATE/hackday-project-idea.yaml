@@ -20,4 +20,4 @@ body:
       description: Tick this box if you would be willing to take on this project - alternatively, you can also submit this idea just as is!
       options:
         - label: Yes!
-          required: true
+          required: false
